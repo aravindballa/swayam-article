@@ -380,6 +380,12 @@ body {
   padding: 0 10px;
   max-width: 500px; }
 
+.home-wrap .about-swayam img {
+  height: 250px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px; }
+
 section {
   background: #ededed; }
 
@@ -421,7 +427,6 @@ footer .footer-content {
   text-align: center; }
 
 .starter-content h4 {
-  left: -10px;
   font-family: 'Raleway';
   font-weight: 800;
   font-size: 27px; }
